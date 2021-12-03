@@ -12,6 +12,7 @@ def find_inc(filename):
             if a_list[i-1] < a_list[i]:
                 counter += 1
         return counter
+        
 
 
 def main():
